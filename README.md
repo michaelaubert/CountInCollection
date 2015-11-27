@@ -1,4 +1,5 @@
-# CountInCollection
+# SortedDuplicateList
+
 Enumerating duplicates in a collection
 
 Write a function that takes a collection of numbers, works out the occurrences of each and then outputs them in descending order of occurrences. If two numbers have the same occurrences then they are output in ascending numerical order.
